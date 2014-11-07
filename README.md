@@ -48,9 +48,8 @@ in ```/sign_in``` using ```rake routes``` and visiting it in your browser.
     it work as you expect?
 
     Let's now add log in and log out links to the navbar so it's easier to see
-    when we're logged in. [Devise has some helpers](https://github.com/plataformatec/devise#controller-filters-and-helpers) that allow you to check if a user is signed in or not, we'll
-    have to use them now.
-
+    when we're logged in. [Devise has some helpers](https://github.com/plataformatec/devise#controller-filters-and-helpers) that allow you to check if a user is signed in or not, we'll have to use them now.
+ 
     b. What is the helper that devise creates that checks if a user is logged in
     or not?
 
